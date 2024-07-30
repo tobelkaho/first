@@ -1,0 +1,2 @@
+login,password, name, surname, patronymic, seriaPassport, nomerPassport, dateBirth, BankAccount, nomerBankAccount, dataBankAccount, CVCBankAccount, CreditCard, SumCredit, SrokCredita
+nemo,123,nemo,memo,nemo, 346884,45363, 01.01.1900,S-867563249887,812231137423,07/98,205,923205295661,10000, 12
